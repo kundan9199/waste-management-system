@@ -25,12 +25,6 @@ A modern waste management web application built using Laravel and Tailwind CSS t
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here later)
-
----
-
 ## ⚙️ Installation
 
 ```bash
